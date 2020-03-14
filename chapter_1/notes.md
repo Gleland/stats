@@ -19,11 +19,28 @@ as a shortcut:
 
 
 
-the mean, <img src="/chapter_1/tex/33717a96ef162d4ca3780ca7d161f7ad.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=18.666631500000015pt/>, is defined as:
-
-<img src="/chapter_1/tex/a0b67327bd1ee3fc77662d5351c0d451.svg?invert_in_darkmode&sanitize=true" align=middle width=83.78078445pt height=27.77565449999998pt/>
-
+### Mean
+The discrete mean, <img src="/chapter_1/tex/33717a96ef162d4ca3780ca7d161f7ad.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=18.666631500000015pt/>, is defined as: <img src="/chapter_1/tex/a0b67327bd1ee3fc77662d5351c0d451.svg?invert_in_darkmode&sanitize=true" align=middle width=83.78078445pt height=27.77565449999998pt/>
 
 and the mean, <img src="/chapter_1/tex/07617f9d8fe48b4a7b3f523d6730eef0.svg?invert_in_darkmode&sanitize=true" align=middle width=9.90492359999999pt height=14.15524440000002pt/> of the parent population is defined as the limit:
 
-<img src="/chapter_1/tex/aa4bcbf51eda5b448f1077b99fa55e11.svg?invert_in_darkmode&sanitize=true" align=middle width=177.73810229999998pt height=27.77565449999998pt/>
+<img src="/chapter_1/tex/b76c235a8e66e08adfa59a9f6f1d17a3.svg?invert_in_darkmode&sanitize=true" align=middle width=159.40736295pt height=27.77565449999998pt/>
+
+### Median
+
+The median of the parent population, <img src="/chapter_1/tex/6b2f3afa595b51b2b2d280694b5df972.svg?invert_in_darkmode&sanitize=true" align=middle width=29.745211649999987pt height=14.15524440000002pt/>, is defined as the value where (in an infinite number of values in a distribution) half the obseverations will be less than the median, and half will be greater:
+
+<img src="/chapter_1/tex/af23a2c3a833d65aca64128c1c9937e5.svg?invert_in_darkmode&sanitize=true" align=middle width=254.44232549999998pt height=24.65753399999998pt/>
+
+### Mode
+
+The mode is the most probably value, <img src="/chapter_1/tex/f0da3698d3d1b77390aaa90f06a49ca5.svg?invert_in_darkmode&sanitize=true" align=middle width=36.15452939999999pt height=14.15524440000002pt/>, is the value for which the parent distribution has the greatest value. In any given experimental measurment, this value is the one most likely to be observed. In the limit of many observations, this value will probably occur most often:
+
+<img src="/chapter_1/tex/81318857166bf8407a8b2800ca0a2ecf.svg?invert_in_darkmode&sanitize=true" align=middle width=178.42749045pt height=24.65753399999998pt/>
+
+### Deviations
+
+
+The deviation, <img src="/chapter_1/tex/672a7aeac9254219b9609330a12e55e5.svg?invert_in_darkmode&sanitize=true" align=middle width=13.206862349999989pt height=22.831056599999986pt/> of any measurment, <img src="/chapter_1/tex/9fc20fb1d3825674c6a279cb0d5ca636.svg?invert_in_darkmode&sanitize=true" align=middle width=14.045887349999989pt height=14.15524440000002pt/> from the mean <img src="/chapter_1/tex/07617f9d8fe48b4a7b3f523d6730eef0.svg?invert_in_darkmode&sanitize=true" align=middle width=9.90492359999999pt height=14.15524440000002pt/> of the parent distribution is defined a the difference between <img src="/chapter_1/tex/9fc20fb1d3825674c6a279cb0d5ca636.svg?invert_in_darkmode&sanitize=true" align=middle width=14.045887349999989pt height=14.15524440000002pt/> and <img src="/chapter_1/tex/07617f9d8fe48b4a7b3f523d6730eef0.svg?invert_in_darkmode&sanitize=true" align=middle width=9.90492359999999pt height=14.15524440000002pt/>:
+
+<img src="/chapter_1/tex/774024d1df1e6088b55f07cb5e9f7577.svg?invert_in_darkmode&sanitize=true" align=middle width=80.81029109999999pt height=22.831056599999986pt/>
