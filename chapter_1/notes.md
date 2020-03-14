@@ -26,4 +26,4 @@ the mean, <img src="/chapter_1/tex/33717a96ef162d4ca3780ca7d161f7ad.svg?invert_i
 
 and the mean, <img src="/chapter_1/tex/07617f9d8fe48b4a7b3f523d6730eef0.svg?invert_in_darkmode&sanitize=true" align=middle width=9.90492359999999pt height=14.15524440000002pt/> of the parent population is defined as the limit:
 
-<img src="/chapter_1/tex/2ea07164e3a1ebf4f0c4c3871f54f95a.svg?invert_in_darkmode&sanitize=true" align=middle width=177.73810229999998pt height=27.77565449999998pt/>
+<img src="/chapter_1/tex/aa4bcbf51eda5b448f1077b99fa55e11.svg?invert_in_darkmode&sanitize=true" align=middle width=177.73810229999998pt height=27.77565449999998pt/>
