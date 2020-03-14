@@ -7,7 +7,7 @@
 the sum of a series of measurements:
 
 
-$\sum\limits_{i=1}^N x_i \equiv \frac{n(n+1)(2n+1)}{6}$
+$\sum\limits_{i=1}^N x_i \equiv x_1 + x_2 + x_3 + ... + x_N$
 
 as a shortcut:
 
@@ -19,12 +19,11 @@ $\sum x_i \equiv \sum\limits_{i=1}^N x_i $
 
 
 
-the mean, $\bar(x)$, is defined as:
+the mean, $\bar{x}$, is defined as:
 
-$\{bar(x) \equiv \frac{1}{N} \sum x_i $
+$\bar{x} \equiv \frac{1}{N} \sum x_i $
 
 
 and the mean, $\mu$ of the parent population is defined as the limit:
 
-$ \mu \equiv o
-$\lim{N \to \infty} \frac{1}{N}(\sum x_i)$
+$ \mu \equiv \lim{N \to \infty} \frac{1}{N}(\sum x_i)$
