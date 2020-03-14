@@ -26,4 +26,4 @@ $\bar{x} \equiv \frac{1}{N} \sum x_i $
 
 and the mean, $\mu$ of the parent population is defined as the limit:
 
-$ \mu \equiv \lim{N \to \infty} \frac{1}{N}(\sum x_i)$
+$ \[\mu \equiv \lim{N \to \infty} \frac{1}{N}(\sum x_i)\]$
