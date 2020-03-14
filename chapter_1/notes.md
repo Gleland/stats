@@ -15,7 +15,7 @@ as a shortcut:
 
 
 
-## Medean, Median, and Mode
+## Median, Median, and Mode
 
 
 
@@ -24,7 +24,7 @@ The discrete mean, <img src="/chapter_1/tex/33717a96ef162d4ca3780ca7d161f7ad.svg
 
 and the mean, <img src="/chapter_1/tex/07617f9d8fe48b4a7b3f523d6730eef0.svg?invert_in_darkmode&sanitize=true" align=middle width=9.90492359999999pt height=14.15524440000002pt/> of the parent population is defined as the limit:
 
-<img src="/chapter_1/tex/b76c235a8e66e08adfa59a9f6f1d17a3.svg?invert_in_darkmode&sanitize=true" align=middle width=159.40736295pt height=27.77565449999998pt/>
+<img src="/chapter_1/tex/dbadf4785a6827672eef8c874437768d.svg?invert_in_darkmode&sanitize=true" align=middle width=133.83658365pt height=27.77565449999998pt/>
 
 ### Median
 
@@ -44,3 +44,32 @@ The mode is the most probably value, <img src="/chapter_1/tex/f0da3698d3d1b77390
 The deviation, <img src="/chapter_1/tex/672a7aeac9254219b9609330a12e55e5.svg?invert_in_darkmode&sanitize=true" align=middle width=13.206862349999989pt height=22.831056599999986pt/> of any measurment, <img src="/chapter_1/tex/9fc20fb1d3825674c6a279cb0d5ca636.svg?invert_in_darkmode&sanitize=true" align=middle width=14.045887349999989pt height=14.15524440000002pt/> from the mean <img src="/chapter_1/tex/07617f9d8fe48b4a7b3f523d6730eef0.svg?invert_in_darkmode&sanitize=true" align=middle width=9.90492359999999pt height=14.15524440000002pt/> of the parent distribution is defined a the difference between <img src="/chapter_1/tex/9fc20fb1d3825674c6a279cb0d5ca636.svg?invert_in_darkmode&sanitize=true" align=middle width=14.045887349999989pt height=14.15524440000002pt/> and <img src="/chapter_1/tex/07617f9d8fe48b4a7b3f523d6730eef0.svg?invert_in_darkmode&sanitize=true" align=middle width=9.90492359999999pt height=14.15524440000002pt/>:
 
 <img src="/chapter_1/tex/774024d1df1e6088b55f07cb5e9f7577.svg?invert_in_darkmode&sanitize=true" align=middle width=80.81029109999999pt height=22.831056599999986pt/>
+
+
+### Variance
+The variance, <img src="/chapter_1/tex/e6718aa5499c31af3ff15c3c594a7854.svg?invert_in_darkmode&sanitize=true" align=middle width=16.535428799999988pt height=26.76175259999998pt/>, is defined as the limit of the average of the squares of the deviations from the mean <img src="/chapter_1/tex/07617f9d8fe48b4a7b3f523d6730eef0.svg?invert_in_darkmode&sanitize=true" align=middle width=9.90492359999999pt height=14.15524440000002pt/>:
+
+<img src="/chapter_1/tex/bb6cd0905461b75ac12d6ad0086ef776.svg?invert_in_darkmode&sanitize=true" align=middle width=352.9136688pt height=27.77565449999998pt/>
+
+
+
+##  Mean and standard deviation of Distribtutions
+
+### Discrete Distributions
+
+If there is a discrete function <img src="/chapter_1/tex/52be0087c9da1f0683ccc50761e8bcab.svg?invert_in_darkmode&sanitize=true" align=middle width=35.01719264999999pt height=24.65753399999998pt/> representing the probability of a measurement <img src="/chapter_1/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> with N observations, we'd expect each observable measurement to occur <img src="/chapter_1/tex/6b1f41d19a26121cbd73768d19de7990.svg?invert_in_darkmode&sanitize=true" align=middle width=71.01492584999998pt height=24.65753399999998pt/> times.
+
+The average can be expressed in the following ways:
+
+
+<img src="/chapter_1/tex/e28800638064434d8eae475de60a47e5.svg?invert_in_darkmode&sanitize=true" align=middle width=445.3934298pt height=62.808286200000005pt/>j$ is between [1,n], with unique values, i.e. no two values of x_j equal.
+
+
+
+We can show the same in terms of the variance:
+
+
+
+
+
+
