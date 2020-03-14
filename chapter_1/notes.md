@@ -6,7 +6,7 @@ Test for markdown support iwth LaTeX.
 
 
 
-```tex
+```math
 \frac{n!}{k!(n-k)!}
 ```
 
