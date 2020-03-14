@@ -2,35 +2,29 @@
 # Uncertainties in Measurements
 
 
+## Notation
 
-Test for markdown support iwth LaTeX.
-
-
-
-```math
-\frac{n!}{k!(n-k)!}
-```
+the sum of a series of measurements:
 
 
-```latex
-\frac{n!}{k!(n-k)!}
-```
+$\sum\limits_{i=1}^N x_i \equiv \frac{n(n+1)(2n+1)}{6}$
 
+as a shortcut:
 
-\frac{n!}{k!(n-k)!}
+$\sum x_i \equiv \sum\limits_{i=1}^N x_i $
 
 
 
-
-$\frac{n!}{k!(n-k)!}$
-
+## Medean, Median, and Mode
 
 
-\begin{equation}
-    \begin{aligned}
-        A(Loop_{1}) + B(Loop_{2}) + C &= 90.56\;(CH_{4})\\
-        A(Loop_{1}) + B(Loop_{2}) + C &= 90.09\;(C_{2}H_{6})\\
-        A(Loop_{1}) + B(Loop_{2}) +C &= 63.21\;(N_{2})\\
-    \end{aligned}
-    \label{eqn:coeffs}
-\end{equation}
+
+the mean, $\bar(x)$, is defined as:
+
+$\{bar(x) \equiv \frac{1}{N} \sum x_i $
+
+
+and the mean, $\mu$ of the parent population is defined as the limit:
+
+$ \mu \equiv o
+$\lim{N \to \infty} \frac{1}{N}(\sum x_i)$
